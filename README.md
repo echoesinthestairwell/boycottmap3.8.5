@@ -14,4 +14,4 @@ Some signatures identified no institutional affiliation. Some were duplicates. S
 
 extracting summary data: Not yet conversant with PostGIS and VPSs, I ran the resulting files through python codes to generate dictionaries and counts of institutions and geographic units like countries and provinces.
 
-producing the map: The map was produced using QGIS 2.18.2. The shapefiles are from Natural Earth, medium scale, cultural: http://www.naturalearthdata.com/downloads/ The webmap was produced using the leaflet2web plugin. https://github.com/tomchadwin/qgis2web Much thanks to the coders for producing this! The base layer tiles are from Open Streetmap.
+producing the map: The map was produced using QGIS 2.18.2. The shapefiles are from Natural Earth, medium scale, cultural: http://www.naturalearthdata.com/downloads/ The webmap was produced using the leaflet2web plugin. https://github.com/tomchadwin/qgis2web Much thanks to the coders for producing this! The base layer tiles are from Stamen.
